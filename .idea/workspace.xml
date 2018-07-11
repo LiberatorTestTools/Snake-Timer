@@ -10,7 +10,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -37,6 +40,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -48,13 +53,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/tests" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -257,18 +260,18 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3237925" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18299595" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18623482" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39534885" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Messages" order="7" />
@@ -312,9 +315,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="20" column="42" lean-forward="true" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -483,9 +483,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2618">
           <caret line="154" column="42" lean-forward="true" selection-start-line="154" selection-start-column="42" selection-end-line="154" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -500,9 +497,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -510,9 +504,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
           <caret line="37" column="30" lean-forward="true" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
