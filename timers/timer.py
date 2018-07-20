@@ -37,8 +37,10 @@ class Timer(object):
         """Pauses the clock and stores the duration"""
         try:
             self.duration = self.stop()
+            self.paused = True
         except ArithmeticError:
             self.duration = 0
+            self.paused = False
         return self.duration
 
     def restart(self):
@@ -46,9 +48,9 @@ class Timer(object):
         try:
             self.end_time = 0
             self.start_time = self.serial_time()
-            self.paused = True
-        except ArithmeticError:
             self.paused = False
+        except ArithmeticError:
+            self.paused = True
             self.start_time = 0
             self.end_time = 0
         return self.start_time
